@@ -1,5 +1,5 @@
 let cityName;
-const ApiKey = "440c1e9fad803d4c57ca72ed341a577a";
+const ApiKey = "Enter your key";
 const ApiUrl = "https://api.openweathermap.org/data/2.5/weather?&units=metric&"
 function getCityName(){
     cityName = document.getElementById("search-box");
